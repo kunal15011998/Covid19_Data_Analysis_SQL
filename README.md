@@ -26,3 +26,5 @@ Utilized SQL techniques such as CTEs, Temp Tables, and Creating Views for effici
 Tools and Skills:
 
 SQL, Excel, Data Analysis, Data Visualization, Data Quality Assessment, SQL Techniques, Dashboard Creation, Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views.
+
+Gathered the data from ourworldindata.org 
